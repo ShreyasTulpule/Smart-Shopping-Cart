@@ -26,3 +26,6 @@ IoT, NodeMCU, RFID, Web Development.
 
 ## Outcome:
 Successfully created a functional prototype that improves shopping efficiency, with a project cost of Rs. 735. Demonstrated the practical application of IoT in retail, offering a potential boost to customer experience.
+
+## Project Team:
+Shreyas Tulpule, Kashyap Talati, Devesh Sharma
