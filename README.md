@@ -3,7 +3,9 @@
 ## Description:
 Developed an IoT-based system to automate item tracking and billing in retail, aiming to streamline the shopping experience and enhance customer satisfaction.
 
-## Technology used: IoT, NodeMCU, RFID, Web Development.
+## Technology used: 
+IoT, NodeMCU, RFID, Web Development.
+
 ## Libraries Used:
 
 - **ESP8266WiFi.h**: To connect to Wi-Fi.
