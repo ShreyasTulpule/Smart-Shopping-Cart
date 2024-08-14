@@ -1,0 +1,7 @@
+I2C-LCD integration, available:https://www.instructables.com/I2C-LCD-on-NodeMCU-V2-With-Arduino-IDE/
+
+RC522 integration, available:https://www.instructables.com/MFRC522-RFID-Reader-Interfaced-With-NodeMCU/
+
+Esp8266 integration, available:https://circuits4you.com/2016/12/16/esp8266-web-server-html/
+
+LED-Button integration, available:https://www.instructables.com/Control-LED-Using-PushButton-With-NodeMCU/
